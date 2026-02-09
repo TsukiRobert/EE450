@@ -1,4 +1,3 @@
-============================================================
 EE450 SOCKET PROGRAMMING PROJECT
 DISTRIBUTED PARKING RESERVATION SYSTEM
 ============================================================
@@ -165,3 +164,4 @@ Step 4: Clean executables
   specification.
 
 ============================================================
+
